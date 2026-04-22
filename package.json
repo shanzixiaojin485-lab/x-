@@ -1,0 +1,8 @@
+{
+  "name": "xboard-user-pages-challenge",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
